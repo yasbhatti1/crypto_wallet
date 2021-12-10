@@ -83,7 +83,7 @@ BTCTEST = 'btc-test'
 --------------------------------------------------------------------------------------------------------
 
 
-# 1.  Setting up two nodes for local network - PROOF OF WORK (POW setup)
+## 1.  Setting up two nodes for local network - Proof Of Work (POW setup)
 
 Follow these steps:
 
