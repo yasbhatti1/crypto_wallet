@@ -199,7 +199,7 @@ please make sure to enter same network name that you saved in step 3
 
 #### For "Chain ID", type decimal value from step 9
 
-#### For "URL", Type "type "http://127.0.0.1:8545"
+#### For "URL", Type "http://127.0.0.1:8545"
 
 #### Finally, click "Save & Use Custom Node"
 Make sure your new custom node is selected at the bottom left
@@ -211,4 +211,4 @@ Make sure your new custom node is selected at the bottom left
 This will open your account wallet inside MyCrypto.
 If you follow the steps correctly, you should have plenty of money in this wallet
 
-Now, you are ready to make transactions using your local network through python code!
+Now, you are ready to make transactions using your local network through python code! 
