@@ -3,7 +3,7 @@
 ## Background
 
 Your new startup is focusing on building a portfolio management system that supports not only traditional assets
-like gold, silver, stocks, etc, but crypto-assets as well! The problem is, there are so many coins out there! It's
+like gold, silver, stocks, etc, but crypto-assets as well! The problem is, there are so many coins out there. It's
 a good thing you understand how HD wallets work, since you'll need to build out a system that can create them.
 
 You're in a race to get to the market. There aren't as many tools available in Python for this sort of thing, yet.
@@ -20,7 +20,7 @@ Ethereum keys are the same format on any network, so the Ethereum keys should wo
 
 ## Dependencies
 
-The following dependencies are required for this assignment and were likely already installed as part of your preparation for in-class activities. 
+The following dependencies are required for this project. 
 
 > **Important:** If you have _not_ already installed the dependencies listed below, you may do so by following the instructions found in the following guides:
   > - [HD Wallet Derive Installation Guide](Resources/HD_Wallet_Derive_Install_Guide.md) 
@@ -65,6 +65,10 @@ Create a project directory called `wallet` and `cd` into it.
       +------+-------------------------------------+
 
 - Create a file called `wallet.py` -- this will be your universal wallet script.
+
+Initial setup should look something like this:
+
+!(fig_tree)("images/tree.png")
 
 ### Setup constants
 
