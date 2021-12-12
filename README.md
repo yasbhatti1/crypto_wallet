@@ -68,7 +68,8 @@ Create a project directory called `wallet` and `cd` into it.
 
 Initial setup should look something like this:
 
-!(fig_tree)("images/tree.png")
+![fig_tree](images/tree.png)
+
 
 ### Setup constants
 
@@ -87,7 +88,7 @@ BTCTEST = 'btc-test'
 --------------------------------------------------------------------------------------------------------
 
 
-## 1.  Setting up two nodes for local network - Proof Of Work (POW setup)
+## 1.  Setting up two nodes for local network - Proof Of Work (POW)
 
 Follow these steps:
 
@@ -104,10 +105,10 @@ Open terminal. cd into the Blockchain-Tools folder and run the following command
 Enter the following command - You could use same terminal window or close the existing terminal window, and open a new one (Make sure to cd into the correct folder, Blockchain-Tools).
 #### ./puppeth
 
-## 3. name your network 
+## 3. Name your network 
 specify any network name (no "spaces", "hyphens" or "capital letters" please) - save this for later reference/usage)
 
-## 4. select the option to configure a new genesis block. 
+## 4. Select the option to configure a new genesis block. 
 ####  ENTER 2 
 "Configure new genesis"
 
