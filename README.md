@@ -68,7 +68,7 @@ Create a project directory called `wallet` and `cd` into it.
 
 Initial setup should look something like this:
 
-![fig_tree](images/tree.png)
+![fig-tree](images/tree.png)
 
 
 ### Setup constants
