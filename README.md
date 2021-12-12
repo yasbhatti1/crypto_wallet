@@ -70,8 +70,8 @@ Create a project directory called `wallet` and `cd` into it.
 
 - In a separate file, `constants.py`, set the following constants:
 
-BTC = 'btc'
-ETH = 'eth'
+BTC = 'btc' /n
+ETH = 'eth' /n
 BTCTEST = 'btc-test'
   
 ### Generate a Mnemonic
